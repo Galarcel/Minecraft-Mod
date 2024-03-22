@@ -1,0 +1,6 @@
+Version 1: 
+Created various little additions to MC 1.16.5 by following Kaupenjoe's tutorials including,
+- New item (Amethyst)
+- New custom item (Firestone)
+- New blocks (Amethyst Ore, Amethyst Block)
+- New custom block (Firestone Block)

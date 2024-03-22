@@ -1,0 +1,10 @@
+{
+  "item.tutorialmod.amethyst": "Amethyst",
+  "item.tutorialmod.firestone": "Firestone",
+  "block.tutorialmod.amethyst_ore": "Amethyst Ore",
+  "block.tutorialmod.amethyst_block": "Amethyst Block",
+  "block.tutorialmod.firestone_block": "Firestone Block",
+  "itemGroup.tutorialModTab": "Tutorial Mod",
+  "tooltip.tutorial.firestone": "Hold §lSHIFT§r for more information",
+  "tooltip.tutorial.firestone_shift": "Might set you on fire or give you fire protection"
+}
