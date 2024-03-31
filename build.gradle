@@ -244,6 +244,10 @@ reobf {
 }
 
 
+// Notes: I think I am going to keep this repo public. Not really adding anything
+// on here that could be considered important (just really setting config)
+// ok yeh
+
 // // Example configuration to allow publishing using the maven-publish task
 // // This is the preferred method to reobfuscate your jar file
 // jar.finalizedBy('reobfJar') 
